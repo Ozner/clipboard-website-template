@@ -1,0 +1,14 @@
+{
+  "name": "clipboardwebsite",
+  "version": "1.0.0",
+  "description": "template para landingpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renzo Parente",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.8"
+  }
+}
